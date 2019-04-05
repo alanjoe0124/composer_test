@@ -1,0 +1,10 @@
+{
+    "name": "zzy/composer_test",
+    "authors": [
+        {
+            "name": "zzy",
+            "email": "837181365@qq.com"
+        }
+    ],
+    "require": {}
+}
